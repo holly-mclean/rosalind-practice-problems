@@ -51,6 +51,12 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+# Test cases
+*.txt
+
+# Apple stuff
+.DS_Store
+
 # Translations
 *.mo
 *.pot
